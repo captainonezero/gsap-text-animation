@@ -1,4 +1,4 @@
 # gsap-text-animation
 GSAP - Text Animation
 
-![Animation of the Project](./animation.gif)
+![Animation of the Project](./demo.gif)
